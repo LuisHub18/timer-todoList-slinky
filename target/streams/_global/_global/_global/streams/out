@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mBuilding webpack library bundles for tutorial-fastopt in C:\coding\tutorial\target\streams\_global\_global\_global\streams\fastOptJS-webpack-libraries[0m
+[0m[[0m[0minfo[0m] [0m[0mWriting scalajs.webpack.config.js[0m
+[0m[[0m[0mdebug[0m] [0m[0mCommand: node C:\coding\tutorial\target\scala-2.13\scalajs-bundler\main\node_modules\webpack\bin\webpack --bail --profile --json --config C:\coding\tutorial\target\scala-2.13\scalajs-bundler\main\webpack-fastopt.config.js[0m
+[0m[[0m[0minfo[0m] [0m[0mVersion: 4.44.2[0m
+[0m[[0m[0minfo[0m] [0m[0mHash: 77e124ab6f33a97570e3[0m
+[0m[[0m[0minfo[0m] [0m[0mTime: 2622ms[0m
+[0m[[0m[0minfo[0m] [0m[0mPath: C:\coding\tutorial\target\scala-2.13\scalajs-bundler\main\dist[0m
+[0m[[0m[0minfo[0m] [0m[0mBuilt at 2023-03-16T19:33:20.637830[0m
+[0m[[0m[0minfo[0m] [0m[0m              Asset      Size                           Chunks[0m
+[0m[[0m[0minfo[0m] [0m[0m        favicon.ico      3870   [emitted]                   [][0m
+[0m[[0m[0minfo[0m] [0m[0m         index.html      1504   [emitted]                   [][0m
+[0m[[0m[0minfo[0m] [0m[0m      manifest.json       332   [emitted]                   [][0m
+[0m[[0m[0minfo[0m] [0m[0mtutorial-fastopt.js   3850836   [emitted]   [tutorial-fastopt][0m

@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__runWatch console0, Some(f97effd2-14eb-4193-8a22-1751a924a9f0), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtStashOnFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__preWatch console0, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(fastOptJS, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / fastOptJS[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 5 Scala sources to C:\coding\tutorial\target\scala-2.13\classes ...[0m
+[0m[[0m[31merror[0m] [0m[0mC:\coding\tutorial\src\main\scala\tutorial\Main.scala:33:21: not found: value App[0m
+[0m[[0m[31merror[0m] [0m[0m    ReactDOM.render(App(), container)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[0minfo[0m] [0m[0mC:\coding\tutorial\src\main\scala\tutorial\TodoApp.scala:23:2: Using fallback derivation for type java.util.UUID (derivation: MacroReadersImpl)[0m
+[0m[[0m[0minfo[0m] [0m[0m@react class TodoApp extends Component {[0m
+[0m[[0m[0minfo[0m] [0m[0m ^[0m
+[0m[[0m[0minfo[0m] [0m[0mC:\coding\tutorial\src\main\scala\tutorial\TodoApp.scala:23:2: Using fallback derivation for type java.util.UUID (derivation: MacroWritersImpl)[0m
+[0m[[0m[0minfo[0m] [0m[0m@react class TodoApp extends Component {[0m
+[0m[[0m[0minfo[0m] [0m[0m ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[0mdebug[0m] [0m[0mGlobal IR cache stats: reused: 0 -- invalidated: 0 -- trees read: 0[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 2 s, completed 14 mar 2023 22:41:52[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(resumeFromFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtPopOnFailure, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__postWatch console0, None, Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(resumeFromFailure, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(__waitWatch console0, None, None)[0m
